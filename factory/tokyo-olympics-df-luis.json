@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympics-df-luis",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f82274f-f6a4-4ed7-84d1-768beb2bb0e9",
+		"tenantId": "d51de596-45a0-4aa5-a0d8-47d1c958aa32"
+	}
+}
