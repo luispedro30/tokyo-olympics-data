@@ -25,6 +25,9 @@
 		},
 		"HttpMedals_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com/luispedro30/tokyo-olympics-data/master/Data/Medals.csv"
+		},
+		"HttpTeams_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/luispedro30/tokyo-olympics-data/master/Data/Teams.csv"
 		}
 	}
 }
